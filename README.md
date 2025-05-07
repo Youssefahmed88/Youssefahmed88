@@ -19,10 +19,10 @@
 ### 🏆 Achievements
 
   🥈 Huawei Network Competition – Silver Medalist
-   Awarded the Silver Medal for outstanding performance in Huawei’s national networking competition, showcasing strong technical and problem-solving skills in networking.
+  Awarded the Silver Medal for outstanding performance in Huawei’s national networking competition, showcasing strong technical and problem-solving skills in networking.
    
   🐞 Bug Hunter on HackerOne
-   discovered and reported security vulnerabilities through the HackerOne platform, contributing to the improvement of real-world application security
+  discovered and reported security vulnerabilities through the HackerOne platform, contributing to the improvement of real-world application security
 
   🔗 [`HackerOne Profile`](https://hackerone.com/0xyousseff)
 
