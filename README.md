@@ -16,7 +16,7 @@
   - **Blockchain and Smart Contracts**: Developing decentralized applications (dApps) and Smart Contracts
 
 ---
-🏆 Achievements
+### 🏆 Achievements
 
   🥈 Huawei Network Competition – Silver Medalist
    Awarded the Silver Medal for outstanding performance in Huawei’s national networking competition, showcasing strong technical and problem-solving skills in networking.
