@@ -20,7 +20,7 @@
 ### 📫 How to Reach Me
 
 - 📧 Email: [youssefahmedd660@gmail.com](mailto:youssefahmedd660@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/Youssefahmed88](https://www.linkedin.com/in/Youssefahmed88/)
+- 🔗 LinkedIn: [www.linkedin.com/in/youssefahmed70](www.linkedin.com/in/youssefahmed70)
 - 🐦 X (Twitter): [x.com/Yousseff0111](https://x.com/Yousseff0111)
 
 ---
