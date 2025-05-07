@@ -9,13 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science student, passionate about **Cybersecurity**, especially **Penetration Testing** and **Web3**.
+- 🎓 Computer Science student, passioante with **Penetration Testing** and **Web3**.
 
 -  I specialize in:
   - **Penetration testing**: Web application security, vulnerability research and Bug Hunting
   - **Blockchain and Smart Contracts**: Developing decentralized applications (dApps) and Smart Contracts
-  -  **Android Dev**: Building secure Android applications.
-  - **Web Development**: Familiar with building secure web applications using **Next.js**, PHP.
 
 ---
 
@@ -23,7 +21,6 @@
 
 - 📧 Email: [youssefahmedd660@gmail.com](mailto:youssefahmedd660@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/Youssefahmed88](https://www.linkedin.com/in/Youssefahmed88/)
-- 💻 GitHub: [github.com/Youssefahmed88](https://github.com/Youssefahmed88)
 - 🐦 X (Twitter): [x.com/Yousseff0111](https://x.com/Yousseff0111)
 
 ---
