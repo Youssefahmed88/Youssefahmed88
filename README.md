@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**Youssefahmed88/Youssefahmed88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Youssef</h1>
+<h3 align="center">Security Researcher | Smart Contract Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Youssefahmed88&label=Profile%20views&color=0e75b6&style=flat" alt="Youssefahmed88" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Science student, passionate about **Cybersecurity**, especially **Penetration Testing** and **Web3**.
+
+-  I specialize in:
+  - **Penetration testing**: Web application security, vulnerability research and Bug Hunting
+  - **Blockchain and Smart Contracts**: Developing decentralized applications (dApps) and Smart Contracts
+  -  **Android Dev**: Building secure Android applications.
+  - **Web Development**: Familiar with building secure web applications using **Next.js**, PHP.
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: [youssefahmedd660@gmail.com](mailto:youssefahmedd660@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/Youssefahmed88](https://www.linkedin.com/in/Youssefahmed88/)
+- 💻 GitHub: [github.com/Youssefahmed88](https://github.com/Youssefahmed88)
+- 🐦 X (Twitter): [x.com/Yousseff0111](https://x.com/Yousseff0111)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssefahmed88&show_icons=true&theme=radical" alt="Youssef's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefahmed88&theme=radical" alt="Youssef's Streak" />
+</p>
