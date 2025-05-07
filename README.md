@@ -12,8 +12,8 @@
 - 🎓 Computer Science student, passioante with **Penetration Testing** and **Web3**.
 
 -  I specialize in:
-  - **Penetration testing**: Web application security, vulnerability research and Bug Hunting
-  - **Blockchain and Smart Contracts**: Developing decentralized applications (dApps) and Smart Contracts
+    - **Penetration testing**: Web application security, vulnerability research and Bug Hunting
+    - **Blockchain and Smart Contracts**: Developing decentralized applications (dApps) and Smart Contracts
 
 ---
 ### 🏆 Achievements
