@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">Security Researcher | Smart Contract Developer</h3>
 
