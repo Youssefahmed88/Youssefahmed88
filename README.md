@@ -24,7 +24,7 @@
   - 🐞 Bug Hunter on HackerOne
     - Discovered and reported security vulnerabilities through the HackerOne platform
 
-  🔗 [`HackerOne Profile`](https://hackerone.com/0xyousseff)
+    - 🔗 [`HackerOne Profile`](https://hackerone.com/0xyousseff)
 
 ---
 
