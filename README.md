@@ -2,8 +2,7 @@
 <h3 align="center">Security Researcher | Smart Contract Developer</h3>
 
 <div align="center">
-  <h2>🚀 <a href="https://example.com/your-resume.pdf" target="_blank">Explore My Resume - Download Now!</a> 🚀</h2>
-  <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+  <h2>🚀 <a href="https://drive.google.com/file/d/1w4vSbPbc5rQuMwQgbN0wYpzXnMV_V6ho/view?usp=drive_link" target="_blank">Check My Resume</a> 🚀</h2>
 </div>
 
 <p align="center">
