@@ -32,7 +32,7 @@
 
 - 📧 Email: [youssefahmedd660@gmail.com](mailto:youssefahmedd660@gmail.com)
 - 🔗 LinkedIn: [www.linkedin.com/in/youssefahmed70](www.linkedin.com/in/youssefahmed70)
-- 🐦 X (Twitter): [x.com/0xYoussef0](https://x.com/Yousseff0111)
+- 🐦 X (Twitter): [x.com/0xYoussef0](https://x.com/0xYoussef0)
 
 ---
 
