@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">Security Researcher | Smart Contract Developer</h3>
 
-<details align="center">
-  <summary><h3 style="display: inline; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">📄 Click Here to View My Resume!</h3></summary>
-  <p><a href="https://example.com/your-resume.pdf" target="_blank">Download Now</a></p>
-</details>
+<div align="center">
+  <h2>🚀 <a href="https://example.com/your-resume.pdf" target="_blank">Explore My Resume - Download Now!</a> 🚀</h2>
+  <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Youssefahmed88&label=Profile%20views&color=0e75b6&style=flat" alt="Youssefahmed88" />
