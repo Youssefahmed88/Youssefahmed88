@@ -3,7 +3,6 @@
 
 <div align="center">
   <h2><a href="https://drive.google.com/file/d/1w4vSbPbc5rQuMwQgbN0wYpzXnMV_V6ho/view?usp=drive_link" target="_blank">Check My Resume</a></h2>
-  <img src="https://komarev.com/ghpvc/?username=Youssefahmed88&label=Profile%20views&color=0e75b6&style=flat" alt="Youssefahmed88" />
 </div>
 
 ---
