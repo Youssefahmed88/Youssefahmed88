@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">Security Researcher | Smart Contract Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Youssefahmed88&label=Profile%20views&color=0e75b6&style=flat" alt="Youssefahmed88" />
-</p>
+<h3 align="center">📄 <a href="https://example.com/your-resume.pdf">View My Resume Here</a></h3>
 
 <p align="center">
-  <a href="https://example.com/your-resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download-blue.svg" alt="Resume" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Youssefahmed88&label=Profile%20views&color=0e75b6&style=flat" alt="Youssefahmed88" />
 </p>
 
 ---
