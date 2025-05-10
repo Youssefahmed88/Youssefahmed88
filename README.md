@@ -11,11 +11,18 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science student, passioante with **Penetration Testing** and **Web3**.
+- 🎓 Computer Science student with a strong passion for Penetration Testing and Web3 technologies.
 
--  I specialize in:
-    - **Penetration testing**: Web and Mobile application security, vulnerability research and Bug Hunting
-    - **Blockchain and Smart Contracts**: Developing decentralized applications (dApps) and Smart Contracts
+  🛠️ I specialize in:
+  
+  - Penetration Testing: Security assessments for web and mobile applications, vulnerability research, and bug hunting.
+  - Web3 & Smart Contracts: Developing decentralized applications (dApps) and secure smart contracts.
+
+- 🌱 Currently expanding my knowledge in Web3 security.
+
+- 💼 Freelance Bug Hunter & Penetration Tester.
+
+- 🗣 Fluent in Arabic and English.
 
 ---
 ### 🏆 Achievements
@@ -32,9 +39,20 @@
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [youssefahmedd660@gmail.com](mailto:youssefahmedd660@gmail.com)
-- 🔗 LinkedIn: [www.linkedin.com/in/youssefahmed70](www.linkedin.com/in/youssefahmed70)
-- 🐦 X (Twitter): [x.com/0xYoussef0](https://x.com/0xYoussef0)
+- 📧 Email: [Contact Me](mailto:youssefahmedd660@gmail.com)
+- 🔗 LinkedIn: [Youssefahmed70](www.linkedin.com/in/youssefahmed70)
+- 🐦 X (Twitter): [@0xYoussef0](https://x.com/0xYoussef0)
+- 🌳 LinkTree: [@0xYoussef](https://linktr.ee/0xYoussef)
+- 📝 Meduim: [@Yousseef](https://medium.com/@Youseef) 
+<p align="center">
+  <a href="https://twitter.com/0xYoussef0"><img src="https://img.shields.io/badge/Twitter-@0xYoussef0-0e75b6?logo=twitter&style=flat" alt="Twitter" /></a>
+  <a href="mailto:youssefahmedd660@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0e75b6?logo=gmail&style=flat" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/youssefahmed70"><img src="https://img.shields.io/badge/LinkedIn-Youssef%20Ahmed-0e75b6?logo=linkedin&style=flat" alt="LinkedIn" /></a>
+  <a href="https://linktr.ee/0xYoussef"><img src="https://img.shields.io/badge/Linktree-Profile-0e75b6?logo=linktree&style=flat" alt="Linktree" /></a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Youssefahmed88&label=Profile%20views&color=0e75b6&style=flat" alt="Youssefahmed88" />
+  <a href="https://github.com/Youssefahmed88"><img src="https://img.shields.io/github/followers/Youssefahmed88?label=Follow%20on%20GitHub&color=0e75b6&style=flat" alt="GitHub Followers" /></a>
+</p>
 
 ---
 
