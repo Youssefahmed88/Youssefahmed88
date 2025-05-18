@@ -27,10 +27,10 @@
 ---
 
 ### 🚀 My Projects
-- [WEB3](https://github.com/Youssefahmed88/WEB3) - A TypeScript project for building **decentralized applications (dApps)** with a focus on Web3 security.
-- [Cryptography](https://github.com/Youssefahmed88/Cryptography) - Python tools for **encryption**, **decryption**, and **security research**.
-- [Mobile-Pentest](https://github.com/Youssefahmed88/Mobile-Pentest) - Resources and tools for **mobile penetration testing** and security assessments.
-- [Dev](https://github.com/Youssefahmed88/Dev) - A Java project for exploring **software development** and **security practices**.
+- [WEB3](https://github.com/Youssefahmed88/WEB3) 
+- [Cryptography](https://github.com/Youssefahmed88/Cryptography) 
+- [Mobile-Pentest](https://github.com/Youssefahmed88/Mobile-Pentest) 
+- [Dev](https://github.com/Youssefahmed88/Dev) 
 
 ---
 ### 🏆 Achievements
