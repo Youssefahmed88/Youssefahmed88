@@ -25,14 +25,6 @@
 - 🗣 Fluent in Arabic and English.
 
 ---
-
-### 🚀 My Projects
-- [WEB3](https://github.com/Youssefahmed88/WEB3) 
-- [Cryptography](https://github.com/Youssefahmed88/Cryptography) 
-- [Mobile-Pentest](https://github.com/Youssefahmed88/Mobile-Pentest) 
-- [Dev](https://github.com/Youssefahmed88/Dev) 
-
----
 ### 🏆 Achievements
 
   - 🥈 Huawei Network Competition – Silver Medalist
