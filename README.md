@@ -18,11 +18,7 @@
   - Penetration Testing: Security assessments for web and mobile applications, vulnerability research, and bug hunting.
   - Web3 & Smart Contracts: Developing decentralized applications (dApps) and secure smart contracts.
 
-- 🌱 Currently expanding my knowledge in Web3 security.
-
 - 💼 Freelance Bug Hunter & Penetration Tester.
-
-- 🗣 Fluent in Arabic and English.
 
 ---
 ### 🏆 Achievements
@@ -41,7 +37,7 @@
 
 - 📧 Email: [Contact Me](mailto:youssefahmedd660@gmail.com)
 - 🔗 LinkedIn: [Youssefahmed70](www.linkedin.com/in/youssefahmed70)
-- 🐦 X (Twitter): [@0xYoussef0](https://x.com/0xYoussef0)
+- 🐦 X (Twitter): [@Yousseff_xyz](https://x.com/Yousseff_xyz)
 - 🌳 LinkTree: [@0xYoussef](https://linktr.ee/0xYoussef)
 - 📝 Meduim: [@Yousseef](https://medium.com/@Youseef) 
 <p align="center">
