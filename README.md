@@ -3,7 +3,7 @@
 
 <div align="center">
   <span>
-    <h3><a href="https://drive.google.com/file/d/1p71XpX1k9BbjWa5H9oKrgp5aFBHOm_VS/view?usp=drive_link" target="_blank">📄 View My Resume</a></h3>
+    <h3><a href="https://drive.google.com/file/d/13mFNVuzAOozFJicVoMm61TZFDg5GErtU/view?usp=sharing" target="_blank">📄 View My Resume</a></h3>
   </span>
 </div>
 
