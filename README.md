@@ -41,7 +41,7 @@
 - 🌳 LinkTree: [@0xYoussef](https://linktr.ee/0xYoussef)
 - 📝 Meduim: [@Yousseef](https://medium.com/@Youseef) 
 <p align="center">
-  <a href="https://twitter.com/0xYoussef0"><img src="https://img.shields.io/badge/Twitter-@0xYoussef0-0e75b6?logo=twitter&style=flat" alt="Twitter" /></a>
+  <a href="https://twitter.com/Yousseff_xyz"><img src="https://img.shields.io/badge/Twitter-@Yousseff_xyz-0e75b6?logo=twitter&style=flat" alt="Twitter" /></a>
   <a href="mailto:youssefahmedd660@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0e75b6?logo=gmail&style=flat" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/youssefahmed70"><img src="https://img.shields.io/badge/LinkedIn-Youssef%20Ahmed-0e75b6?logo=linkedin&style=flat" alt="LinkedIn" /></a>
   <a href="https://linktr.ee/0xYoussef"><img src="https://img.shields.io/badge/Linktree-Profile-0e75b6?logo=linktree&style=flat" alt="Linktree" /></a>
