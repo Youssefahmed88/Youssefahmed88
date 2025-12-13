@@ -6,18 +6,11 @@ I turn my understanding of algorithms and system design into **efficient offensi
 
 I constantly sharpen my problem-solving skills through **LeetCode**. **I don't just write code — I weaponize logic.**
 
----
 
 ## Skills
 
 * **Programming Languages:** C/C++, Rust, Java, Python
-* **Strengths:** Problem Solving, DSA (LeetCode)
 * **Areas of Interest:** Web & Mobile Penetration Testing, Blockchain & Smart Contract Security, CTFs
-
----
-
-## Links
-
----
+* **Strengths:** Problem Solving, DSA (LeetCode)
 
 > "A vulnerability is just a human assumption proved wrong."
