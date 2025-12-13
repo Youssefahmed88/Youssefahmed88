@@ -1,61 +1,23 @@
-<h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">Security Researcher | Smart Contract Developer</h3>
+# Architect of Chaos
 
-<div align="center">
-  <span>
-    <h3><a href="https://drive.google.com/file/d/1hlKQyCZWJ1obqRjA3E6OBBJMTu4giF9J/view?usp=sharing" target="_blank">📄 View My Resume</a></h3>
-  </span>
-</div>
+**Salam! I'm Youssef, driven by the art of hacking and fueled by a deep software engineering mindset. I love exploring the world of low-level system internals and breaking complex systems.**
 
----
+I turn my understanding of algorithms and system design into **efficient offensive security tools**, focusing on **code optimization and high performance**.
 
-### 👨‍💻 About Me
-
-- 🎓 Computer Science student with a strong passion for Penetration Testing and Web3 technologies.
-
-  🛠️ I specialize in:
-  
-  - Penetration Testing: Security assessments for web and mobile applications, vulnerability research, and bug hunting.
-  - Web3 & Smart Contracts: Developing decentralized applications (dApps) and secure smart contracts.
-
-- 💼 Freelance Bug Hunter & Penetration Tester.
-
----
-### 🏆 Achievements
-
-  - 🥈 Huawei Network Competition – Silver Medalist
-    - Awarded the Silver Medal for outstanding performance in Huawei’s national networking competition, showcasing strong technical and problem-solving skills in networking.
-   
-  - 🐞 Bug Hunter on HackerOne
-    - Discovered and reported security vulnerabilities through the HackerOne platform
-
-    - 🔗 [`HackerOne Profile`](https://hackerone.com/0xyousseff)
+I constantly sharpen my **problem-solving skills through LeetCode**. **I don't just write code — I weaponize logic.**
 
 ---
 
-### 📫 How to Reach Me
+## Skills
 
-- 📧 Email: [Contact Me](mailto:youssefahmedd660@gmail.com)
-- 🔗 LinkedIn: [Youssefahmed70](www.linkedin.com/in/youssefahmed70)
-- 🐦 X (Twitter): [@Yousseff_xyz](https://x.com/Yousseff_xyz)
-- 🌳 LinkTree: [@0xYoussef](https://linktr.ee/0xYoussef)
-- 📝 Meduim: [@Yousseef](https://medium.com/@Youseef) 
-<p align="center">
-  <a href="https://twitter.com/Yousseff_xyz"><img src="https://img.shields.io/badge/Twitter-@Yousseff_xyz-0e75b6?logo=twitter&style=flat" alt="Twitter" /></a>
-  <a href="mailto:youssefahmedd660@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0e75b6?logo=gmail&style=flat" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/youssefahmed70"><img src="https://img.shields.io/badge/LinkedIn-Youssef%20Ahmed-0e75b6?logo=linkedin&style=flat" alt="LinkedIn" /></a>
-  <a href="https://linktr.ee/0xYoussef"><img src="https://img.shields.io/badge/Linktree-Profile-0e75b6?logo=linktree&style=flat" alt="Linktree" /></a>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Youssefahmed88&label=Profile%20views&color=0e75b6&style=flat" alt="Youssefahmed88" />
-  <a href="https://github.com/Youssefahmed88"><img src="https://img.shields.io/github/followers/Youssefahmed88?label=Follow%20on%20GitHub&color=0e75b6&style=flat" alt="GitHub Followers" /></a>
-</p>
+* **Programming Languages:** C/C++, Rust, Java, Python
+* **Strengths:** Problem Solving, DSA (LeetCode)
+* **Areas of Interest:** Web & Mobile Penetration Testing, Blockchain & Smart Contract Security, CTFs
 
 ---
 
-### 📊 GitHub Stats
+## Links
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssefahmed88&show_icons=true&theme=radical" alt="Youssef's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefahmed88&theme=radical" alt="Youssef's Streak" />
-</p>
+---
+
+> "A vulnerability is just a human assumption proved wrong."
