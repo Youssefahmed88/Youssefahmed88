@@ -10,7 +10,7 @@ I constantly sharpen my problem-solving skills through **LeetCode**. **I don't j
 ## Skills
 
 * **Programming Languages:** C/C++, Rust, Java, Python
-* **Areas of Interest:** Web & Mobile Penetration Testing, Blockchain & Smart Contract Security, CTFs
+* **Areas of Interest:** Web, Mobile Penetration Testing, Smart Contract Security, Vulnerability Research, CTFs
 * **Strengths:** Problem Solving, DSA (LeetCode)
 
 > "A vulnerability is just a human assumption proved wrong."
