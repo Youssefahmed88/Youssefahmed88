@@ -6,8 +6,7 @@ I’m a CS student with a **SWE mindset**. I enjoy system design and architectur
 Earlier in my journey, I focused on **Web and Android penetration testing**, gaining hands-on experience through **bug bounty hunting** and CTFs, which gave me a solid foundation in Penetration testing and security practices.
 
 ## Freelance 
-I **freelanced for a year** on **blockchain** projects, working directly with clients, which strengthened my **SWE** skills and gave me practical experience in **building and securing distributed systems**.
-I write **secure, production-ready code** and validate it through penetration testing practices.
+I **freelanced for a year** on **blockchain** projects, working directly with clients, which strengthened my **SWE** skills and gave me practical experience in **development and securing systems** and validate it through penetration testing practices.
 ## Skills
 * **Languages:** C/C++, Rust, Java, Python  
 * **Security:** Web & Android Penetration Testing, CTFs  
