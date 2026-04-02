@@ -2,13 +2,22 @@
 
 **Salam! I'm Youssef**  
 
-I’m a CS student with a **SWE mindset**. I enjoy system design and architecture while continuously sharpening my **LeetCode & CodeForces** skills.  
-Earlier in my journey, I focused on **Web and Android penetration testing**, gaining hands-on experience through **bug bounty hunting** and CTFs, which gave me a solid foundation in Penetration testing and security practices.
+I’m a Computer Science student with a focus on DSA and building solid fundamentals in databases, system design, and operating systems.
 
-## Freelance 
-I **freelanced for a year** on **blockchain** projects, working directly with clients, which strengthened my **SWE** skills and gave me practical experience in **development and securing systems** and validate it through penetration testing practices.
+I continuously sharpen my **problem-solving skills** through **LeetCode** and **Codeforces**, as I believe algorithmic thinking is essential for building efficient and scalable systems.
+
+
+Lately, I've been deep-diving into engineering books to master fundamental concepts, applying that knowledge through practical projects and open-source contributions.<br> working on production codebases with a massive user base taught me how to navigate **"quick and dirty" fixes, technical debt, and legacy code** alongside solid engineering.
+
+Beyond writing code, I’ve learned to build CI/CD pipelines, write tests that scale, and collaborate asynchronously through global code reviews.
+
+My background is a bit of a mix; I actually started out in security, specifically with Web and Android penetration testing. Hunting for bug bounties and playing CTFs gave me that "breaker" mindset and a much deeper understanding of how systems can be both broken and secured.
+
+I’ve also been freelancing in the blockchain, handling projects from end-to-end. I worked directly with clients on system design, architecture, and building both the backend and smart contracts—taking them from initial concept to a secure, production-ready state.
+
 ## Skills
-* **Languages:** C/C++, Rust, Java, Python  
-* **Security:** Web & Android Penetration Testing, CTFs  
-* **Strengths:** Problem Solving, Data Structures & Algorithms  
-* **Other Experience:** Backend & smart contracts dev (Freelance)
+
+* **Languages:** C++, Java, Python, Rust, Solidity
+* **Core Strengths:** Problem Solving, Data Structures & Algorithms
+* **Security:** Web & Android Penetration Testing, CTFs
+* **Experience:** Backend Development & Smart Contracts (Freelance)
