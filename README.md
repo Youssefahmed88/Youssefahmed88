@@ -7,7 +7,7 @@ I’m a Computer Science student with a focus on DSA and building solid fundamen
 I continuously sharpen my **problem-solving skills** through **LeetCode** and **Codeforces**, as I believe algorithmic thinking is essential for building efficient and scalable systems.
 
 
-Lately, I've been deep-diving into engineering books to master fundamental concepts, applying that knowledge through practical projects and open-source contributions.<br> working on production codebases with a massive user base taught me how to navigate **"quick and dirty" fixes, technical debt, and legacy code** alongside solid engineering.
+Lately, I've been deep-diving into engineering books to master fundamental concepts, applying that knowledge through practical projects and open-source contributions.<br> working on production codebases with a massive user base taught me how to refactoring "quick and dirty" fixes, legacy and debt code into architectural-grade solutions.
 
 Beyond writing code, I’ve learned to build CI/CD pipelines, write tests that scale, and collaborate asynchronously through global code reviews.
 
